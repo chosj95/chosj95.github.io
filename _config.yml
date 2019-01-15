@@ -1,10 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Sungjin Cho
+bio: M.S. candidate, School of Electrical Engineering, Korea University
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: A blog about computer vision and deep learning
 # if it's an external image, update below for true
 # better with square images
 external-image: false
