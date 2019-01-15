@@ -4,32 +4,31 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a M.S. candidate in the <a href="https://ee.korea.ac.kr/ee/index.do/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
+<p>I am a M.S. candidate in the <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
+I received the B.S. degree from <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea, in 2018.
+I entered <a href="https://dali.korea.ac.kr/">Computer Vision & Image Processing Lab in 2018.</a>
 </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<li>OS: Windows, Ubuntu</li>
+<li>Languages: C, Python, MATLAB</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Interests</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Computer vision</li>
+        <li>Image processing</li>
+	<li>Deep Learning</li>
+	<li>Convolutional neural network</li>
+        <li>Object Detection</li>
 </ul>
+
+<h2>Email</h2>
+
+<ul>
+        <li>sjcho@dali.korea.ac.kr</li>
+</ul>
+
