@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a M.S. candidate in the <li><a href="https://ee.korea.ac.kr/ee/index.do/">School of Electrical Engineering</a></li>, <li><a href="http://korea.ac.kr/">Korea University</a></li>, Seoul, Korea.
+<p>I am a M.S. candidate in the <a href="https://ee.korea.ac.kr/ee/index.do/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
 </p>
 
 <h2>Skills</h2>
