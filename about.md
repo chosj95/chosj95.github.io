@@ -19,10 +19,10 @@ I entered <a href="https://dali.korea.ac.kr/">Computer Vision & Image Processing
 <h2>Interests</h2>
 
 <ul>
-	<li>Computer vision</li>
-        <li>Image processing</li>
+	<li>Computer Vision</li>
+        <li>Image Processing</li>
 	<li>Deep Learning</li>
-	<li>Convolutional neural network</li>
+	<li>Convolutional Neural Network</li>
         <li>Object Detection</li>
 </ul>
 
