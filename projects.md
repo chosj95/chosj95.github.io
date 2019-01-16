@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+
 
 
 <h2>Current Projects</h2>
