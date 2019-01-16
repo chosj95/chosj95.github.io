@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a M.S. candidate in the <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
+<p>I am a Master's student in the <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
 I received the B.S. degree from <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea, in 2018.
 I entered <a href="https://dali.korea.ac.kr/">Computer Vision & Image Processing Lab</a>  in 2018.
 </p>

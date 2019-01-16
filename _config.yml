@@ -1,9 +1,6 @@
 # main text of home
 name: Sungjin Cho
-bio: |
-  M.S. candidate
-  School of Electrical Engineering
-  Korea University
+bio: Master's student, Electrical Engineering, Korea University
 
 # twitter summary info
 description: A blog about computer vision and deep learning
@@ -42,7 +39,7 @@ email: chosj95@gmail.com
 authors:
     sungjin:
         name: Sungjin Cho
-        bio: M.S. candidate, School of Electrical Engineering, Korea University
+        bio: Master's student, School of Electrical Engineering, Korea University
         external-image: false
         picture: assets/images/profile.jpg
         
