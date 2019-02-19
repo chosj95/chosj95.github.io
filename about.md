@@ -4,33 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a Master's student in the <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>, <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea.
+I am a Master's student in the [School of the Electrical Engineering](ttps://ee.korea.ac.kr), [Korea University](http://korea.ac.kr/), Seoul, Korea.
 
-I received the B.S. degree from <a href="http://korea.ac.kr/">Korea University</a>, Seoul, Korea, in 2018.
+I received the B.S. degree from  [Korea University](http://korea.ac.kr/), Seoul, Korea, in 2018.
 
-I entered <a href="https://dali.korea.ac.kr/">Computer Vision & Image Processing Lab</a>  in 2018.
-</p>
+I entered [Computer Vision & Image Processing Lab](https://dali.korea.ac.kr/) in 2018.
 
-<h2>Skills</h2>
+## Skills
 
-<ul class="skill-list">
-<li>OS: Windows, Ubuntu</li>
-<li>Languages: C, Python, MATLAB</li>
-</ul>
+- OS: Windows, Ubuntu
+- Languages: C, Python, MATLAB
 
-<h2>Interests</h2>
+## Interests
 
-<ul>
-	<li>Computer Vision</li>
-        <li>Image Processing</li>
-	<li>Deep Learning</li>
-	<li>Convolutional Neural Network</li>
-        <li>Object Detection</li>
-</ul>
+- Computer Vision
+- Image Processing
+- Deep Learning
+- Convolutional Neural Network
+- Object Detection
 
-<h2>Email</h2>
+## Email
 
-<ul>
-        <li>sjcho@dali.korea.ac.kr</li>
-</ul>
-
+- sjcho@dali.korea.ac.kr
+- chosj95@gmail.com
+- 
