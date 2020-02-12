@@ -18,13 +18,15 @@ I entered [Computer Vision & Image Processing Lab](https://dali.korea.ac.kr/) in
 
 ## News
 
+- 1st/2nd places in AIM Raw-to-RGB mapping Track at ICCV 2019.
+- One papers are accepted by ICCVW 2019.
 - One paper is accepted by CVPRW 2019
 - 3rd place winner of [AI RUSH 2019](https://ai-rush.com) (Image Classification & CTR prediction)
 
 ## Skills
 
 - OS: Windows, Ubuntu
-- Languages: C, Python, MATLAB
+- Languages: Python, MATLAB
 
 ## Email
 
